@@ -1,0 +1,31 @@
+{
+  "prop_001": {
+    "name": "Ocean View Studio",
+    "tier": "Studio",
+    "gcal_color_id": "1",
+    "ical_urls": [
+      "https://www.airbnb.com/calendar/ical/123456.ics",
+      "https://ical.booking.com/v1/export?t=abc-123"
+    ],
+    "cleaning_template": "CLEANING_PROP_SMALL"
+  },
+  "prop_002": {
+    "name": "Cosy Downtown Apartment",
+    "tier": "Apartment",
+    "gcal_color_id": "5",
+    "ical_urls": [
+      "https://www.airbnb.com/calendar/ical/789012.ics"
+    ],
+    "cleaning_template": "CLEANING_PROP_MEDIUM"
+  },
+  "prop_003": {
+    "name": "Luxury 4-BR Family House",
+    "tier": "Large House",
+    "gcal_color_id": "11",
+    "ical_urls": [
+      "https://www.airbnb.com/calendar/ical/345678.ics",
+      "https://ical.booking.com/v1/export?t=xyz-789"
+    ],
+    "cleaning_template": "CLEANING_PROP_LARGE"
+  }
+}
